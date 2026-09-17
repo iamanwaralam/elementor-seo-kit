@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "elementor-seo-kit",
+  "description": "Skills for WordPress + Elementor publishers: weekly content research, SEO blog writing, and native-Elementor page building. Configure once for your own site with SITE-PROFILE.md.",
+  "owner": {
+    "name": "Anwar Alam",
+    "url": "https://iamanwaralam.github.io/"
+  },
+  "plugins": [
+    {
+      "name": "elementor-seo-kit",
+      "source": "./",
+      "description": "Plan, write, and publish SEO-optimized blog content on any WordPress + Elementor site — weekly content research, an SEO writing system, and a native-Elementor page-building workflow.",
+      "author": {
+        "name": "Anwar Alam",
+        "url": "https://iamanwaralam.github.io/"
+      },
+      "homepage": "https://iamanwaralam.github.io/",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "wordpress",
+        "elementor",
+        "seo",
+        "content-strategy",
+        "rank-math",
+        "blog-writing"
+      ]
+    }
+  ]
+}

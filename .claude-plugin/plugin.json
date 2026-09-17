@@ -1,0 +1,22 @@
+{
+  "name": "elementor-seo-kit",
+  "version": "1.0.0",
+  "description": "Plan, write, and publish SEO-optimized blog content on any WordPress + Elementor site — weekly content research, an SEO writing system, and a native-Elementor page-building workflow. Site-agnostic: works for any niche once you fill in your own SITE-PROFILE.md.",
+  "author": {
+    "name": "Anwar Alam",
+    "url": "https://iamanwaralam.github.io/"
+  },
+  "homepage": "https://iamanwaralam.github.io/",
+  "repository": "https://github.com/iamanwaralam/elementor-seo-kit",
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "elementor",
+    "seo",
+    "content-strategy",
+    "rank-math",
+    "blog-writing",
+    "content-calendar",
+    "content-marketing"
+  ]
+}
