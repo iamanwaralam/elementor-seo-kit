@@ -1,5 +1,7 @@
 # Elementor SEO Kit
 
+![Elementor SEO Kit overview](assets/overview.png)
+
 Claude skills for anyone running a WordPress + Elementor blog: weekly content
 research, an SEO writing system, and a native-Elementor page-building
 workflow — the same three-skill pipeline, generalized for any niche.
