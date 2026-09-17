@@ -64,11 +64,14 @@ Elementor.
 ## Requirements
 
 - A WordPress site built with Elementor (free or Pro).
-- Some way for Claude to read/write the site — e.g. WP-CLI, the WordPress
-  REST API, an MCP server that talks to your WordPress install, or a
-  human relaying steps into wp-admin. This kit doesn't ship that
-  connection; it assumes you already have one and just governs how the
-  content and the Elementor structure should look.
+- **[Novamira](https://novamira.ai/)** installed and connected — this is the
+  MCP server that actually gives Claude read/write access to your
+  WordPress + Elementor site (pages, `_elementor_data`, post meta, Rank
+  Math fields, cache clearing, etc.). The three skills in this kit assume
+  that connection exists; they govern *what* Claude does with it (content,
+  structure, spacing, SEO), not the connection itself. Without Novamira (or
+  an equivalent WP-CLI/REST-API/MCP bridge you've wired up yourself),
+  `elementor-page-builder` has nothing to act on.
 - An SEO plugin (Rank Math, Yoast, or SEOPress all work — the skills say
   "the site's SEO plugin" throughout rather than assuming one).
 
