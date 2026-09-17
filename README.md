@@ -25,11 +25,9 @@ Use them together (research → write → build) or independently.
 ### Option A — as a Claude Code / Cowork plugin marketplace
 
 ```
-/plugin marketplace add <your-github-username>/elementor-seo-kit
+/plugin marketplace add iamanwaralam/elementor-seo-kit
 /plugin install elementor-seo-kit
 ```
-
-(Replace `<your-github-username>` with wherever you publish this repo.)
 
 ### Option B — copy the skills directly
 
